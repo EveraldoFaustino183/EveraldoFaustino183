@@ -45,9 +45,9 @@ My goal is to keep learning and turn ideas into solutions.
 
 ## 🛠️ Tecnologias | Technologies
 
-**Currently exploring**
+![Currently Learning](https://skillicons.dev/icons?i=c,js,html,css,cs,py&theme=dark)
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Exploring Next](https://skillicons.dev/icons?i=lua,java,cpp,ruby&theme=dark)
 
 ## 📂 Projetos | Projects
 
@@ -55,9 +55,12 @@ Aqui você encontrará meus estudos, experimentos e projetos desenvolvidos duran
 
 Here you'll find my studies, experiments and projects developed throughout my programming journey.
 
+![Tools](https://skillicons.dev/icons?i=git,github,linux&theme=dark)
+
 ## 📡 Conecte-se | Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USUARIO)
+
 
 ---
 
